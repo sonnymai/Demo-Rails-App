@@ -1,5 +1,5 @@
 class UsersController < ApplicationController
-  # Git tets
+  # Git tetshahah
   # GET /users
   # GET /users.xml
   def index
